@@ -8,7 +8,6 @@ let airLineSeat: 'aisle' | 'window' | 'middle' = "aisle";
 
 **/
 
-
 /** This code Will become difficult at the end 
 
 let orders = ['10', '20', '30', '40']
@@ -36,6 +35,3 @@ for (let order of orders){
 }
 
 console.log(currentVal);
-
-
-

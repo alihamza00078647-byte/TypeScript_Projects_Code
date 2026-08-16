@@ -48,7 +48,6 @@ if (typeof newValue === "string") {
 
 /* handle try and catch data types */
 
-
 try {
     
 } catch (error) {
